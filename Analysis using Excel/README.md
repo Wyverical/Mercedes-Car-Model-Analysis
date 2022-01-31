@@ -21,48 +21,48 @@ Also visit:
 
 ## $ Dashboard 
 <p align="center">
-    <img src="https://github.com/Wyverical/Excel-dashboards/blob/main/Mercedes%20Benz%20Car%20Model%20Analysis/Images/dashboard.PNG" width="2010" height="440" />
+    <img src="https://github.com/Wyverical/Mercedes-Car-Model-Analysis/blob/main/Analysis%20using%20Excel/Images/dashboard.PNG" width="2010" height="440" />
 </p>
 <br>
 
 ## A) Model v/s Miles per gallon 
 <p align="center">
-    <img src="https://github.com/Wyverical/Excel-dashboards/blob/main/Mercedes%20Benz%20Car%20Model%20Analysis/Images/mpg.PNG" width="2010" height="440" />
+    <img src="https://github.com/Wyverical/Mercedes-Car-Model-Analysis/blob/main/Analysis%20using%20Excel/Images/mpg.PNG" width="2010" height="440" />
 </p>
 <br>
 
 ## B) Model v/s Mileage 
 
 <p align="center">
-   <img src="https://github.com/Wyverical/Excel-dashboards/blob/main/Mercedes%20Benz%20Car%20Model%20Analysis/Images/mileage.PNG"width="2010" height="440" />
+   <img src="https://github.com/Wyverical/Mercedes-Car-Model-Analysis/blob/main/Analysis%20using%20Excel/Images/mileage.PNG"width="2010" height="440" />
 </p>
 <br>
 
 ## C)  Model v/s Price 
 
 <p align="center">
-    <img src="https://github.com/Wyverical/Excel-dashboards/blob/main/Mercedes%20Benz%20Car%20Model%20Analysis/Images/price.PNG" width="2010" height="440" />
+    <img src="https://github.com/Wyverical/Mercedes-Car-Model-Analysis/blob/main/Analysis%20using%20Excel/Images/price.PNG" width="2010" height="440" />
 </p>
 <br>
 
 ## D) Mileage v/s Transmission 
 
 <p align="center">
-    <img src="https://github.com/Wyverical/Excel-dashboards/blob/main/Mercedes%20Benz%20Car%20Model%20Analysis/Images/transmission.PNG" width="2010" height="440" />
+    <img src="https://github.com/Wyverical/Mercedes-Car-Model-Analysis/blob/main/Analysis%20using%20Excel/Images/transmission.PNG" width="2010" height="440" />
 </p>
 <br>
 
 ## E) Model v/s Tax
 
 <p align="center">
-    <img src="https://github.com/Wyverical/Excel-dashboards/blob/main/Mercedes%20Benz%20Car%20Model%20Analysis/Images/tax.PNG" width="2010" height="440" />
+    <img src="https://github.com/Wyverical/Mercedes-Car-Model-Analysis/blob/main/Analysis%20using%20Excel/Images/tax.PNG" width="2010" height="440" />
 </p>
 <br>
 
 ## F) Fueltype v/s Mileage
 
 <p align="center">
-    <img src="https://github.com/Wyverical/Excel-dashboards/blob/main/Mercedes%20Benz%20Car%20Model%20Analysis/Images/fueltype.PNG" width="2010" height="440" />
+    <img src="https://github.com/Wyverical/Mercedes-Car-Model-Analysis/blob/main/Analysis%20using%20Excel/Images/fueltype.PNG" width="2010" height="440" />
 </p>
 <br>
 
