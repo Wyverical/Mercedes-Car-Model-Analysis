@@ -13,48 +13,48 @@ This visualization will explore every attribute of a dataset and also an importa
 
 ## $ Dashboard 
 <p align="center">
-    <img src="https://github.com/Wyverical/Tableau-Dashboards/blob/main/Mercedes%20Benz%20Car%20Model%20Analysis/Images/Mercedes%20Benz%20car%20Model%20Analysis.png" width="1920" height="540" />
+    <img src="https://github.com/Wyverical/Mercedes-Car-Model-Analysis/blob/main/Analysis%20in%20Tableau/Images/Mercedes%20Benz%20car%20Model%20Analysis.png" width="1920" height="540" />
 </p>
 
 ## A) Model v/s Miles per gallon 
 <p align="center">
-    <img src="https://github.com/Wyverical/Tableau-Dashboards/blob/main/Mercedes%20Benz%20Car%20Model%20Analysis/Images/Model%20by%20Miles%20per%20Gallons.png" width="1920" height="540" />
+    <img src="https://github.com/Wyverical/Mercedes-Car-Model-Analysis/blob/main/Analysis%20in%20Tableau/Images/Model%20by%20Miles%20per%20Gallons.png" width="1920" height="540" />
 </p>
 
 ## B) Model v/s Mileage 
 
 <p align="center">
-   <img src="https://github.com/Wyverical/Tableau-Dashboards/blob/main/Mercedes%20Benz%20Car%20Model%20Analysis/Images/Model%20by%20Mileage.png" width="1920" height="540" />
+   <img src="https://github.com/Wyverical/Mercedes-Car-Model-Analysis/blob/main/Analysis%20in%20Tableau/Images/Model%20by%20Mileage.png" width="1920" height="540" />
 </p>
 
 ## C)  Model v/s Price 
 
 <p align="center">
-    <img src="https://github.com/Wyverical/Tableau-Dashboards/blob/main/Mercedes%20Benz%20Car%20Model%20Analysis/Images/Model%20by%20price.png" width="1920" height="540" />
+    <img src="https://github.com/Wyverical/Mercedes-Car-Model-Analysis/blob/main/Analysis%20in%20Tableau/Images/Model%20by%20price.png" width="1920" height="540" />
 </p>
 
 ## D)  Year v/s Price 
 
 <p align="center">
-  <img src="https://github.com/Wyverical/Tableau-Dashboards/blob/main/Mercedes%20Benz%20Car%20Model%20Analysis/Images/Prices%20by%20Year.png" width="1920" height="540" />
+  <img src="https://github.com/Wyverical/Mercedes-Car-Model-Analysis/blob/main/Analysis%20in%20Tableau/Images/Prices%20by%20Year.png" width="1920" height="540" />
 </p>
 
 ## E) Mileage v/s Transmission 
 
 <p align="center">
-    <img src="https://github.com/Wyverical/Tableau-Dashboards/blob/main/Mercedes%20Benz%20Car%20Model%20Analysis/Images/Transmission%20by%20Mileage.png" width="1920" height="540" />
+    <img src="https://github.com/Wyverical/Mercedes-Car-Model-Analysis/blob/main/Analysis%20in%20Tableau/Images/Transmission%20by%20Mileage.png" width="1920" height="540" />
 </p>
 
 ## F) Model v/s Tax
 
 <p align="center">
-    <img src="https://github.com/Wyverical/Tableau-Dashboards/blob/main/Mercedes%20Benz%20Car%20Model%20Analysis/Images/Model%20by%20Tax.png" width="1920" height="540" />
+    <img src="https://github.com/Wyverical/Mercedes-Car-Model-Analysis/blob/main/Analysis%20in%20Tableau/Images/Model%20by%20Tax.png" width="1920" height="540" />
 </p>
 
 ## G) Fueltype v/s Mileage
 
 <p align="center">
-    <img src="https://github.com/Wyverical/Tableau-Dashboards/blob/main/Mercedes%20Benz%20Car%20Model%20Analysis/Images/Mileage%20by%20Fuel%20type.png" width="1920" height="540" />
+    <img src="https://github.com/Wyverical/Mercedes-Car-Model-Analysis/blob/main/Analysis%20in%20Tableau/Images/Mileage%20by%20Fuel%20type.png" width="1920" height="540" />
 </p>
 
 #  Conclusion
